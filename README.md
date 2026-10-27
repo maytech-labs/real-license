@@ -22,6 +22,6 @@ To license your codebase under REAL 1.0:
 
 1. Copy the contents of [`LICENSE.md`](./LICENSE.md) into the root directory of your repository.
 2. Update the copyright header at the top of the file:
-   ```text
-   Copyright (c) 2026 MayTech Labs
+```text
+   Copyright (c) [Year] [Your Name or Organization]
    Licensed under the Reciprocal Ethical AI License (REAL) 1.0.
