@@ -1,4 +1,7 @@
 # Reciprocal Ethical AI License (REAL 1.0)
+[![License: REAL 1.0](https://img.shields.io/badge/License-REAL_1.0-blue.svg)](LICENSE.md)
+[![Category: Source-Available](https://img.shields.io/badge/Category-Source--Available-orange.svg)](#classification-note)
+[![Ethics: RAIL--Inspired](https://img.shields.io/badge/Ethics-RAIL--Inspired-green.svg)](#key-features)
 
 **REAL** (Reciprocal Ethical AI License) is a source-available, ethical reciprocal license designed for modern software projects. It allows developers to freely share, modify, and distribute their code while protecting it from closed-source AI ingestion.
 
