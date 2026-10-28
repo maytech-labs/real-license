@@ -25,3 +25,15 @@ To license your codebase under REAL 1.0:
 ```text
    Copyright (c) [Year] [Your Name or Organization]
    Licensed under the Reciprocal Ethical AI License (REAL) 1.0.
+```
+
+---
+
+## Checking Compatibility
+
+[`real-check`](https://github.com/maytech-labs/real-check) checks that a repository and its dependencies are compatible with REAL 1.0:
+
+```sh
+cargo install --git https://github.com/maytech-labs/real-check
+real-check check .
+```
